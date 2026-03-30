@@ -51,6 +51,7 @@
 - [429 на странице плейлиста: виртуализация списка](docs/cases/playlist-poster-429.md) — от сообщения в мессенджере до фикса за одну сессию
 - [Рефакторинг ошибок плеера](docs/cases/player-error-handling-refactor.md) — от жалобы на битый чанк до аудита 3 драйверов и 8 задач в Kaiten
 - [Ревью кастомных колонок каталога](docs/cases/catalog-custom-columns-review.md) — AI-ревью ветки gateway: SQL-производительность, scope ветки, мёртвые поля в контракте
+- [GPU «fallen off the bus» после зависания](docs/cases/encoder-gpu-fallen-off-bus.md) — диф-диагностика энкодера по USE: GPU Xid 79, каскад проблем, изоляция причины
 
 ### Скилы
 
